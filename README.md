@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedommran&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedommran" /> </p>
 
-- 🔭 I’m currently working on **.Net Maui Project**
+- 🔭 I’m currently working on **.Net Web Blzor Assembly E-Commerce Project**
 
 - 🌱 I’m currently learning **Selenium, Django, Machine learning**
 
